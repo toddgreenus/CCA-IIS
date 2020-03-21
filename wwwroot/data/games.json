@@ -1,0 +1,48 @@
+[
+  {
+    "game_name": "Dogger Bank",
+    "filename": "Dogger_Bank.json",
+    "player": [ "Todd Green", "David Bush" ],
+    "wind_direction": 4,
+    "wind_speed": 3,
+    "wind_direction_change": 0,
+    "wind_speed_change": 0,
+    "initial_wind_direction": 2,
+    "initial_wind_speed": 0,
+    "sea_state": 2,
+    "game_turn": 0,
+    "date": 1805,
+    "next_turn_wind_direction": 4,
+    "next_turn_wind_speed": 3,
+    "game_type": 8,
+    "enable_anchor": 0,
+    "enable_scatter": 0,
+    "email": [
+      "toddgreenus@yahoo.com",
+      "dbushhome@aol.com"
+    ]
+  },
+  {
+    "game_name": "Cape Finisterre",
+    "filename": "Cape_Finisterre.json",
+    "player": [ "Todd Green", "David Bush" ],
+    "wind_direction": 4,
+    "wind_speed": 3,
+    "wind_direction_change": 0,
+    "wind_speed_change": 0,
+    "initial_wind_direction": 2,
+    "initial_wind_speed": 0,
+    "sea_state": 2,
+    "game_turn": 0,
+    "date": 1805,
+    "next_turn_wind_direction": 4,
+    "next_turn_wind_speed": 3,
+    "game_type": 8,
+    "enable_anchor": 0,
+    "enable_scatter": 0,
+    "email": [
+      "toddgreenus@yahoo.com",
+      "dbushhome@aol.com"
+    ]
+  }
+]

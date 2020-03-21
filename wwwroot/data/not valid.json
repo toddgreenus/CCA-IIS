@@ -1,0 +1,248 @@
+[
+  [
+    {
+      "wind_direction": 4,
+      "wind_speed": 3,
+      "wind_direction_change": 0,
+      "wind_speed_change": 0,
+      "initial_wind_direction": 4,
+      "initial_wind_speed": 0,
+      "sea_state": 2,
+      "game_turn": 0,
+      "date": 1805,
+      "next_turn_wind_direction": 4,
+      "next_turn_wind_speed": 3,
+      "game_type": 8,
+      "name": "DoggerBank",
+      "game_name": "DoggerBank",
+      "enable_anchor": 0,
+      "enable_scatter": 0,
+      "shadow_admiral_name1": "",
+      "shadow_admiral_name2": "",
+      "shadow_admiral_email1": "",
+      "shadow_admiral_email2": ""
+    }
+  ],
+  [
+    {
+      "name": "Berwick",
+      "accept_tow": 0,
+      "aft_hex": 30747,
+      "ammunition": 0,
+      "anchor_hex": 0,
+      "anchored": 0,
+      "arv": 0,
+      "bear_off_enemy": 1,
+      "bear_off_friendly": 1,
+      "bear_off_heading": 0,
+      "bow_hex": 31002,
+      "captain_type": 1,
+      "carronades": 0,
+      "collision_last_turn": 0,
+      "contest_hex_enemy": 0,
+      "contest_hex_friendly": 0,
+      "crew": [ 5, 6, 6, 5 ],
+      "marines": 5,
+      "crew_quality": 3,
+      "critical_hit": 0,
+      "damage_sail_state": 3,
+      "draft": 22,
+      "fleet": 1,
+      "freeboard": 4,
+      "hull": [ 8, 8, 9, 9 ],
+      "hull_checks_taken": 0,
+      "last_plot": [
+        {
+          "bow_hex": 28958,
+          "aft_hex": 28703
+        },
+        {
+          "bow_hex": 29214,
+          "aft_hex": 28958
+        },
+        {
+          "bow_hex": 29469,
+          "aft_hex": 29214
+        },
+        {
+          "bow_hex": 29725,
+          "aft_hex": 29469
+        },
+        {
+          "bow_hex": 29980,
+          "aft_hex": 29725
+        },
+        {
+          "bow_hex": 30236,
+          "aft_hex": 29980
+        },
+        {
+          "bow_hex": 30491,
+          "aft_hex": 30236
+        },
+        {
+          "bow_hex": 30747,
+          "aft_hex": 30491
+        },
+        {
+          "bow_hex": 31002,
+          "aft_hex": 30747
+        },
+        {
+          "bow_hex": 30747,
+          "aft_hex": 31002
+        }
+      ],
+      "longguns": 17,
+      "lower_deck": 5,
+      "lt_speed": 7,
+      "maneuver_type": 2,
+      "medguns": 0,
+      "message_words": 0,
+      "morale_check": 0,
+      "morale_rating": 4,
+      "movement_type": 8,
+      "nationality": "British",
+      "next_turn": 0,
+      "password": "cfiadm",
+      "email": "dbushhome@aol.com",
+      "player_name": "David Bush",
+      "poor_maneuvering": 0,
+      "port_guns_damage": 0,
+      "port_initial_broadside": 1,
+      "prep_anchor_aft": 0,
+      "prep_anchor_bow": 0,
+      "prep_anchor_springs_aft": 0,
+      "prep_anchor_springs_bow": 0,
+      "prep_boarders": [ 0, 0, 0, 0 ],
+      "prep_tow": 0,
+      "rate": "74",
+      "rigging": [ 7, 7, 7, 7 ],
+      "rigging_checks_taken": 0,
+      "rudder_destroy_last_mp": 0,
+      "sail_state": 3,
+      "ship_class": 2,
+      "squadron": 0,
+      "starboard_guns_damage": 0,
+      "starboard_initial_broadside": 1,
+      "struck": 0,
+      "total_morale_checks": 0,
+      "total_morale_checks_failed": 0,
+      "undamaged_crew": [ 5, 6, 6, 6 ],
+      "undamaged_marines": 5,
+      "undamaged_hull": [ 8, 8, 9, 9 ],
+      "undamaged_rigging": [ 7, 7, 7, 7 ],
+      "victory_points": 0
+    },
+    {
+      "name": "Erfprins",
+      "accept_tow": 0,
+      "aft_hex": 37120,
+      "ammunition": 0,
+      "anchor_hex": 0,
+      "anchored": 0,
+      "arv": 0,
+      "bear_off_enemy": 1,
+      "bear_off_friendly": 1,
+      "bear_off_heading": 0,
+      "bow_hex": 37121,
+      "captain_type": 1,
+      "carronades": 0,
+      "collision_last_turn": 0,
+      "contest_hex_enemy": 0,
+      "contest_hex_friendly": 0,
+      "crew": [ 3, 3, 4, 4 ],
+      "marines": 3,
+      "crew_quality": 3,
+      "critical_hit": 1,
+      "damage_sail_state": 2,
+      "draft": 24,
+      "fleet": 2,
+      "freeboard": 4,
+      "hull": [ 6, 6, 6, 6 ],
+      "hull_checks_taken": 0,
+      "last_plot": [
+        {
+          "bow_hex": 37118,
+          "aft_hex": 37117
+        },
+        {
+          "bow_hex": 37119,
+          "aft_hex": 37118
+        },
+        {
+          "bow_hex": 37120,
+          "aft_hex": 37119
+        },
+        {
+          "bow_hex": 37121,
+          "aft_hex": 37120
+        },
+        {
+          "bow_hex": 37122,
+          "aft_hex": 37121
+        },
+        {
+          "bow_hex": 37123,
+          "aft_hex": 37122
+        },
+        {
+          "bow_hex": 37124,
+          "aft_hex": 37123
+        },
+        {
+          "bow_hex": 37125,
+          "aft_hex": 37124
+        },
+        {
+          "bow_hex": 37126,
+          "aft_hex": 37125
+        },
+        {
+          "bow_hex": 37120,
+          "aft_hex": 37119
+        }
+      ],
+      "longguns": 9,
+      "lower_deck": 5,
+      "lt_speed": 2,
+      "maneuver_type": 2,
+      "medguns": 0,
+      "message_words": 0,
+      "morale_check": 0,
+      "morale_rating": 4,
+      "movement_type": 7,
+      "nationality": "Dutch",
+      "next_turn": 0,
+      "password": "temp",
+      "email": "bsw111@msn.com",
+      "player_name": "Bryan Williams",
+      "poor_maneuvering": 0,
+      "port_guns_damage": 0,
+      "port_initial_broadside": 1,
+      "prep_anchor_aft": 0,
+      "prep_anchor_bow": 0,
+      "prep_anchor_springs_aft": 0,
+      "prep_anchor_springs_bow": 0,
+      "prep_boarders0": [ 0, 0, 0, 0 ],
+      "prep_tow": 0,
+      "rate": "54",
+      "rigging1": [ 5, 5, 6, 6 ],
+      "rigging_checks_taken": 0,
+      "rudder_destroy_last_mp": 0,
+      "sail_state": 2,
+      "ship_class": 1,
+      "squadron": 0,
+      "starboard_guns_damage": 0,
+      "starboard_initial_broadside": 1,
+      "struck": 0,
+      "total_morale_checks": 0,
+      "total_morale_checks_failed": 0,
+      "undamaged_crew": [ 0, 3, 3, 4 ],
+      "undamaged_marines": 3,
+      "undamaged_hull": [ 6, 6, 6, 6 ],
+      "undamaged_rigging": [ 5, 5, 6, 6 ],
+      "victory_points": 0
+    }
+  ]
+]

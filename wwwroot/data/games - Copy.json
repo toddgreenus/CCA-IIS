@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Dogger Bank",
+    "filename": "Dogger_Bank.json",
+    "player": [ "Todd Green", "David Bush" ],
+    "email": [
+      "toddgreenus@yahoo.com",
+      "dbushhome@aol.com"
+    ]
+  },
+  {
+    "name": "Cape Finisterre",
+    "filename": "Cape_Finisterre.json",
+    "wind_direction": 4,
+    "wind_speed": 3,
+    "wind_direction_change": 0,
+    "wind_speed_change": 0,
+    "initial_wind_direction": 2,
+    "initial_wind_speed": 0,
+    "sea_state": 2,
+    "game_turn": 0,
+    "date": 1805,
+    "next_turn_wind_direction": 4,
+    "next_turn_wind_speed": 3,
+    "game_type": 8,
+    "game_name": "Finisterre",
+    "enable_anchor": 0,
+    "enable_scatter": 0,
+    "shadow_admiral_name1": "Dave Cross and Tim Marvin",
+    "shadow_admiral_name2": "Tony Badamo",
+    "shadow_admiral_email1": 
+    [
+      "davecross@erols.com",
+      "timmarvin@att.com",
+      "tim.marvin@worldnet.att.net"
+    ],
+    "shadow_admiral_email2": 
+    [
+      "tonyb1@ptdprolog.net"
+    ],
+      "player"
+      :
+      [
+        "Bryan Williams",
+        "David Bush"
+      ],
+      "email"
+      :
+      [
+        "bsw111@msn.com",
+        "dbushhome@aol.com"
+      ]
+  }
+]

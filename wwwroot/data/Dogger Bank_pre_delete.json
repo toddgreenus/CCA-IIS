@@ -1,0 +1,269 @@
+[
+  {
+    "accept_tow": 0,
+    "current_pos": {
+      "Bow": {
+        "Col": 4,
+        "Row": 2
+      },
+      "Aft": {
+        "Col": 6,
+        "Row": 2
+      }
+    },
+      "ammunition": 0,
+    "anchor_hex": {
+      "Col": 4,
+      "Row": 2
+    },
+      "anchored": 0,
+      "arv": 0,
+      "bear_off_enemy": 1,
+      "bear_off_friendly": 1,
+      "bear_off_heading": 0,
+      "captain_type": 1,
+      "carronades": 0,
+      "collision_last_turn": 0,
+      "contest_hex_enemy": 0,
+      "contest_hex_friendly": 0,
+      "crew": [ 5, 6, 6, 5 ],
+      "crew_damage_info": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+      "crew_quality": 3,
+      "critical_hit": 0,
+      "damage_sail_state": 3,
+      "draft": 22,
+      "email": "toddgreenus@yahoo.com",
+      "fleet": 1,
+      "freeboard": 4,
+      "hull": [ 8, 8, 9, 9 ],
+      "hull_checks_taken": 0,
+      "hull_damage_info": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "last_plot": [
+      {
+        "Bow": {
+          "Col": 12,
+          "Row": 2
+        },
+        "Aft": {
+          "Col": 14,
+          "Row": 2
+        }
+      },
+      {
+        "Bow": {
+          "Col": 10,
+          "Row": 2
+        },
+        "Aft": {
+          "Col": 12,
+          "Row": 2
+        }
+      },
+      {
+        "Bow": {
+          "Col": 8,
+          "Row": 2
+        },
+        "Aft": {
+          "Col": 10,
+          "Row": 2
+        }
+      },
+      {
+        "Bow": {
+          "Col": 6,
+          "Row": 2
+        },
+        "Aft": {
+          "Col": 8,
+          "Row": 2
+        }
+      },
+      {
+        "Bow": {
+          "Col": 4,
+          "Row": 2
+        },
+        "Aft": {
+          "Col": 6,
+          "Row": 2
+        }
+      }
+    ],
+      "longguns": 17,
+      "lower_deck": 5,
+      "lt_speed": 7,
+      "maneuver_type": 2,
+      "marine_damage_info": [ 0, 0, 0, 0, 0 ],
+      "marines": 5,
+      "medguns": 0,
+      "message_words": 0,
+      "morale_check": 0,
+      "morale_rating": 4,
+      "movement_type": 8,
+      "name": "Berwick",
+      "nationality": "British",
+      "next_turn": 0,
+      "password": "cfiadm",
+      "player_name": "David Bush",
+      "poor_maneuvering": 0,
+      "port_guns_damage": 0,
+      "port_initial_broadside": 1,
+      "prep_anchor_aft": 0,
+      "prep_anchor_bow": 0,
+      "prep_anchor_springs_aft": 0,
+      "prep_anchor_springs_bow": 0,
+      "prep_boarders": [ 0, 0, 0, 0 ],
+      "prep_tow": 0,
+      "rate": "74",
+      "rigging": [ 7, 7, 7, 7 ],
+      "rigging_checks_taken": 0,
+      "rigging_damage_info": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+      "rudder_destroy_last_mp": 0,
+      "sail_state": 3,
+      "ship_class": 2,
+      "squadron": 0,
+      "starboard_guns_damage": 0,
+      "starboard_initial_broadside": 1,
+      "struck": 0,
+      "total_morale_checks": 0,
+      "total_morale_checks_failed": 0,
+      "undamaged_crew": [ 5, 6, 6, 6 ],
+      "undamaged_hull": [ 8, 8, 9, 9 ],
+      "undamaged_marines": 5,
+      "undamaged_rigging": [ 7, 7, 7, 7 ],
+      "victory_points": 0
+    },
+  {
+    "accept_tow": 0,
+    "current_pos": {
+      "Bow": {
+        "Col": 4,
+        "Row": 4
+      },
+      "Aft": {
+        "Col": 6,
+        "Row": 4
+      }
+    },
+    "ammunition": 0,
+    "anchor_hex": 0,
+    "anchored": 0,
+    "arv": 0,
+    "bear_off_enemy": 1,
+    "bear_off_friendly": 1,
+    "bear_off_heading": 0,
+    "captain_type": 1,
+    "carronades": 0,
+    "collision_last_turn": 0,
+    "contest_hex_enemy": 0,
+    "contest_hex_friendly": 0,
+    "crew": [ 3, 3, 4, 4 ],
+    "crew_quality": 3,
+    "crew_damage_info": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "critical_hit": 1,
+    "damage_sail_state": 2,
+    "draft": 24,
+    "email": "bsw111@msn.com",
+    "fleet": 2,
+    "freeboard": 4,
+    "hull": [ 6, 6, 6, 6 ],
+    "hull_checks_taken": 0,
+    "hull_damage_info": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "last_plot": [
+      {
+        "Bow": {
+          "Col": 12,
+          "Row": 4
+        },
+        "Aft": {
+          "Col": 14,
+          "Row": 4
+        }
+      },
+      {
+        "Bow": {
+          "Col": 10,
+          "Row": 4
+        },
+        "Aft": {
+          "Col": 12,
+          "Row": 4
+        }
+      },
+      {
+        "Bow": {
+          "Col": 8,
+          "Row": 4
+        },
+        "Aft": {
+          "Col": 10,
+          "Row": 4
+        }
+      },
+      {
+        "Bow": {
+          "Col": 6,
+          "Row": 4
+        },
+        "Aft": {
+          "Col": 8,
+          "Row": 4
+        }
+      },
+      {
+        "Bow": {
+          "Col": 4,
+          "Row": 4
+        },
+        "Aft": {
+          "Col": 6,
+          "Row": 4
+        }
+      }
+    ],
+    "longguns": 9,
+    "lower_deck": 5,
+    "lt_speed": 2,
+    "maneuver_type": 2,
+    "marines": 3,
+    "marine_damage_info": [ 0, 0, 0 ],
+    "medguns": 0,
+    "message_words": 0,
+    "morale_check": 0,
+    "morale_rating": 4,
+    "movement_type": 7,
+    "name": "Erfprins",
+    "nationality": "Dutch",
+    "next_turn": 0,
+    "password": "temp",
+    "player_name": "Bryan Williams",
+    "poor_maneuvering": 0,
+    "port_guns_damage": 0,
+    "port_initial_broadside": 1,
+    "prep_anchor_aft": 0,
+    "prep_anchor_bow": 0,
+    "prep_anchor_springs_aft": 0,
+    "prep_anchor_springs_bow": 0,
+    "prep_boarders": [ 0, 0, 0, 0 ],
+    "prep_tow": 0,
+    "rate": "54",
+    "rigging_checks_taken": 0,
+    "rigging": [ 5, 5, 6, 6 ],
+    "rigging_damage_info": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "rudder_destroy_last_mp": 0,
+    "sail_state": 2,
+    "ship_class": 1,
+    "squadron": 0,
+    "starboard_guns_damage": 0,
+    "starboard_initial_broadside": 1,
+    "struck": 0,
+    "total_morale_checks": 0,
+    "total_morale_checks_failed": 0,
+    "undamaged_crew": [ 0, 3, 3, 4 ],
+    "undamaged_hull": [ 6, 6, 6, 6 ],
+    "undamaged_marines": 3,
+    "undamaged_rigging": [ 5, 5, 6, 6 ],
+    "victory_points": 0
+  }
+]
